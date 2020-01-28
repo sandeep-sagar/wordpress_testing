@@ -1,0 +1,23 @@
+Version 1.2 | 15 May 2019
+
+- UPDATED	: Demo importer content
+- UPDATED	: ACF Pro plugin v5.8.0
+
+File Changed:
+
+- plugins/advanced-custom-fields-pro.zip
+- plugins/sakola-extra.zip
+
+Version 1.1 | 26 October 2017
+
+- FIXED		: Demo import theme options data and menus not imported well
+- UPDATED	: Demo importer
+- UPDATED	: ACF Pro plugin
+
+File Changed:
+
+- plugins/advanced-custom-fields-pro.zip
+- plugins/sakola-extra.zip
+
+v1.0
+= initial release =
